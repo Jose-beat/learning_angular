@@ -25,3 +25,27 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Init server with other port 
+
+Run `ng serve --port=4100` to execute the angular app with other port
+
+## Init server in the local network 
+
+Run `ng s --host=0.0.0.0 --port=4100` to share the app in the local network
+ 
+
+## Assets 
+
+Usaremos recursos estaticos como los siguientes:
+
+1. Iconscount
+2. Google Fonts
+
+## DataSets (Banco de Datos)
+
+Como fuentes de datos vamos a usar una estructura basada en json con un archivo llamado Tracks.json.
+
+
+
