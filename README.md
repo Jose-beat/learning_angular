@@ -47,5 +47,11 @@ Usaremos recursos estaticos como los siguientes:
 
 Como fuentes de datos vamos a usar una estructura basada en json con un archivo llamado Tracks.json.
 
+## Generar modulos 
+
+Podemos generar los modulos que necesitemos en la app con el comando `ng g m <nombre o ruta de modulo pe. modules/auth >` esta es una abreviacion para el comando `ng generate module modules/auth`.
+
+
+
 
 
